@@ -1,5 +1,5 @@
 /*Hello2*/
-/*Hello cc*/
+/*Hello cc, dmm luon*/
 import java.util.Scanner;
 
 public class DIEM {
